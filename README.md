@@ -5,7 +5,7 @@ Script to convert equirectangular images to perspective images
 ## Environment setup
 
 ```bash
-pip install numpu opencv-python
+pip install numpy opencv-python
 ```
 
 ## How to run
