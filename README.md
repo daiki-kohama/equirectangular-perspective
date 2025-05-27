@@ -22,7 +22,7 @@ python main.py \
     --show
 ```
 
-The coordinate system below use one which OpenCV use.
+The coordinate system below is the coordinate system that OpenCV use.
 Please see difference of the coordinate systems [here](https://medium.com/@christophkrautz/what-are-the-coordinates-225f1ec0dd78).
 
 - input: input equirectangular image path
